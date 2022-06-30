@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Digital Marketing
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on Cool Projects
+- 📫 How to reach me: https://danielfreire.pages.dev
+- 😄 Pronouns: He
+
 <!--
 **Dainelli/Dainelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
