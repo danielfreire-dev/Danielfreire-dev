@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Web Development from The Odin Project and Freecodecamp
 - 👯 I’m looking to collaborate on Cool Projects
 - 📫 How to reach me: [Personal Website](https://danielfreire.pages.dev)
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Them
 
 <!--
 **Dainelli/Dainelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
