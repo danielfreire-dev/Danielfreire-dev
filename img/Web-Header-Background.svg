@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   xml:space="preserve"
+   id="svg4736"
+   sodipodi:docname="Web-Header-Background.svg"
+   width="2397.24"
+   height="644.40387"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs4740" /><sodipodi:namedview
+   id="namedview4738"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   showgrid="false"
+   inkscape:zoom="0.24218407"
+   inkscape:cx="487.2327"
+   inkscape:cy="726.71996"
+   inkscape:window-width="1920"
+   inkscape:window-height="1012"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg4736" />
+	
+<g
+   id="Layer_1_copy_2"
+   transform="translate(306.302,63.247)">
+	<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="-207.2916"
+   y1="270.95621"
+   x2="1991.9283"
+   y2="270.95621">
+		<stop
+   offset="0"
+   style="stop-color:#FF1902"
+   id="stop4712" />
+		<stop
+   offset="1"
+   style="stop-color:#FF1902;stop-opacity:0"
+   id="stop4714" />
+	</linearGradient>
+	<path
+   fill="url(#SVGID_1_)"
+   d="m -206.084,515.811 c 0,0 217.208,-66.007 453.867,3 0.017,0.005 0.034,0.01 0.051,0.015 118.716,34.611 243.627,53.152 366.838,35.887 136.417,-19.115 258.875,-65.218 397.701,-35.334 107.947,23.237 196.916,83.712 311.488,53.499 122.896,-32.409 228.996,-83.684 359.183,-76.458 111.262,6.176 199.042,51.051 308.884,10.389 V -39.245 h -2199.22 z"
+   id="path4717"
+   style="fill:url(#SVGID_1_)">
+		<animateTransform
+   attributeName="transform"
+   attributeType="XML"
+   type="translate"
+   dur="25"
+   values="150,0;-150,0;150,0;"
+   repeatCount="indefinite" />
+	</path>
+</g>
+<g
+   id="Layer_1_copy"
+   transform="translate(306.302,63.247)">
+	<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="-306.30151"
+   y1="246.9538"
+   x2="1892.9183"
+   y2="246.9538">
+		<stop
+   offset="0"
+   style="stop-color:#FF1902"
+   id="stop4720" />
+		<stop
+   offset="1"
+   style="stop-color:#FF1902;stop-opacity:0"
+   id="stop4722" />
+	</linearGradient>
+	<path
+   opacity="0.5"
+   fill="url(#SVGID_2_)"
+   d="m -305.094,491.808 c 0,0 217.208,-66.007 453.867,3 0.017,0.005 0.034,0.01 0.051,0.015 118.716,34.611 243.627,53.152 366.838,35.887 136.417,-19.115 258.875,-65.218 397.701,-35.334 107.946,23.237 196.916,83.712 311.488,53.499 122.896,-32.409 228.996,-83.684 359.183,-76.458 111.262,6.176 199.041,51.051 308.884,10.389 V -63.247 h -2199.22 z"
+   id="path4725"
+   style="fill:url(#SVGID_2_)">
+		<animateTransform
+   attributeName="transform"
+   attributeType="XML"
+   type="translate"
+   dur="20"
+   values="150,0;-150,0;150,0;"
+   repeatCount="indefinite" />
+	</path>
+</g>
+<g
+   id="Layer_1"
+   transform="translate(306.302,63.247)">
+	<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="-107.0737"
+   y1="237.9529"
+   x2="2090.9382"
+   y2="237.9529">
+		<stop
+   offset="0"
+   style="stop-color:#FF1902"
+   id="stop4728" />
+		<stop
+   offset="1"
+   style="stop-color:#FF1902;stop-opacity:0"
+   id="stop4730" />
+	</linearGradient>
+	<path
+   opacity="0.5"
+   fill="url(#SVGID_3_)"
+   d="m -107.074,466.23 c 0,0 217.208,-61.538 453.867,2.797 0.017,0.005 0.034,0.009 0.051,0.014 118.716,32.268 243.627,49.553 366.838,33.458 136.417,-17.821 258.875,-60.803 397.701,-32.941 107.947,21.664 196.916,78.045 311.488,49.876 122.896,-30.215 228.996,-78.018 359.183,-71.281 111.262,5.758 199.042,47.594 308.884,9.686 V -51.246 l -2194.283,0.088 z"
+   id="path4733"
+   style="fill:url(#SVGID_3_)">
+		<animateTransform
+   attributeName="transform"
+   attributeType="XML"
+   type="translate"
+   dur="15"
+   values="50,0;-50,0;50,0;"
+   repeatCount="indefinite" />
+	</path>
+</g>
+</svg>
