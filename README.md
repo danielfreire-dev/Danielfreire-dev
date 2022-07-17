@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in Digital Marketing
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development from The Odin Project and Freecodecamp
 - 👯 I’m looking to collaborate on Cool Projects
 - 📫 How to reach me: [Personal Website](https://danielfreire.pages.dev)
 - 😄 Pronouns: He
