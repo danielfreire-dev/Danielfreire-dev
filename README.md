@@ -1,4 +1,6 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+post_array = array
 
 - 🔭 I’m currently working in Digital Marketing
 - 🌱 I’m currently learning Web Development from The Odin Project and Freecodecamp
