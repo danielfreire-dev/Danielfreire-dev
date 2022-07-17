@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 800 400"
+   version="1.1"
+   id="svg320"
+   sodipodi:docname="rose-petals (2).svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview322"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="2.055"
+     inkscape:cx="393.18735"
+     inkscape:cy="200"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg320" />
+  <rect
+     fill="#125B50"
+     width="800"
+     height="400"
+     id="rect296" />
+  <defs
+     id="defs308">
+    <rect
+       x="247.63518"
+       y="46.383288"
+       width="343.12175"
+       height="68.44974"
+       id="rect326" />
+    <radialGradient
+       id="a"
+       cx="396"
+       cy="281"
+       r="514"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#FF6363"
+         id="stop298" />
+      <stop
+         offset="1"
+         stop-color="#125B50"
+         id="stop300" />
+    </radialGradient>
+    <linearGradient
+       id="b"
+       gradientUnits="userSpaceOnUse"
+       x1="400"
+       y1="148"
+       x2="400"
+       y2="333">
+      <stop
+         offset="0"
+         stop-color="#F8B400"
+         stop-opacity="0"
+         id="stop303" />
+      <stop
+         offset="1"
+         stop-color="#F8B400"
+         stop-opacity="0.5"
+         id="stop305" />
+    </linearGradient>
+  </defs>
+  <rect
+     fill="url(#a)"
+     width="800"
+     height="400"
+     id="rect310" />
+  <g
+     fill-opacity="0.5"
+     id="g318">
+    <circle
+       fill="url(#b)"
+       cx="267.5"
+       cy="61"
+       r="300"
+       id="circle312" />
+    <circle
+       fill="url(#b)"
+       cx="532.5"
+       cy="61"
+       r="300"
+       id="circle314" />
+    <circle
+       fill="url(#b)"
+       cx="400"
+       cy="30"
+       r="300"
+       id="circle316" />
+  </g>
+  <text
+     xml:space="preserve"
+     id="text324"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Kolker Brush';-inkscape-font-specification:'Kolker Brush';white-space:pre;shape-inside:url(#rect326);display:inline;fill:#faf5e4;fill-opacity:1"
+     transform="translate(40.323484)"><tspan
+       x="247.63477"
+       y="78.65554"
+       id="tspan3621">Hey there! I am Daniel</tspan></text>
+</svg>
