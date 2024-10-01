@@ -7,7 +7,7 @@
 - 🔭 Working in Digital Marketing
 - 🌱 Learning Web Development
 - 👯 I’m looking to collaborate in FOSS projects
-- 📫 How to reach me: [Personal Website](https://danielfreire.pages.dev){:target="_blank"}
+- 📫 How to reach me: [Personal Website](https://danielfreire.pages.dev)
 - 😄 Pronouns: He/Him
 
 <!--
