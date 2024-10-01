@@ -4,9 +4,9 @@
 
 <!-- <a href="https://danielfreire.pages.dev/"> <img src="./img/rose-petals (2).svg"/></a> -->
 
-- 🔭 Currently working in Digital Marketing
-- 🌱 Currently learning Web Development from The Odin Project and Freecodecamp
-- 👯 I’m looking to collaborate on Interesting Projects
+- 🔭 Working in Digital Marketing
+- 🌱 Learning Web Development
+- 👯 I’m looking to collaborate in FOSS projects
 - 📫 How to reach me: [Personal Website](https://danielfreire.pages.dev)
 - 😄 Pronouns: He/Him
 
