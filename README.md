@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Freire</h1>
 <h3 align="center">A passionate frontend developer from Portugal</h3>
 
-- 🔭 Working on **Digital Marketing**
-- 🌱 Learning **Web Development**
+- 🔭 Working as **Software Engineer - Frontend**
+- 🌱 Learning **AI**
 - 👯 I’m looking to collaborate on **FOSS projects**
-- 👨‍💻 My projects are available at [danielfreire.pages.dev/](http://danielfreire.pages.dev/)
-- 📫 How to reach me **daniel.freire@gmx.com**
+- 👨‍💻 My favorite projects are available at [danielfreire.pages.dev/](http://danielfreire.pages.dev/)
+- 📫 Best to reach me @ **daniel.freire@gmx.com**
 - 😄 Pronouns: He/Him
 
 <h3 align="left">Languages and Tools:</h3>
