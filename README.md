@@ -23,7 +23,7 @@
 			/></a>
 			<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 				<img
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+					src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg"
 					alt="css3"
 					width="40"
 					height="40"
