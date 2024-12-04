@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Freire</h1>
 <h3 align="center">A passionate frontend developer from Portugal</h3>
 
-- 🔭 Working as **Software Engineer - Frontend**
+- 🔭 Working as **Frontend Developer**
 - 🌱 Learning **AI**
 - 👯 I’m looking to collaborate on **FOSS projects**
 - 👨‍💻 My favorite projects are available at [danielfreire.pages.dev/](http://danielfreire.pages.dev/)
