@@ -112,7 +112,7 @@
 				rel="noreferrer"
 			>
 				<img
-					src="[https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg](https://www.svgrepo.com/show/353478/bash-icon.svg)"
+					src="https://www.svgrepo.com/show/353478/bash-icon.svg"
 					alt="bash"
 					width="40"
 					height="40"
