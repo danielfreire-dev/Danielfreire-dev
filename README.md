@@ -66,7 +66,7 @@
 			/></a>
 			<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 				<img
-					src="https://danielfreire.pages.dev/images/icons/Bootstrap-logo.svg"
+					src="https://danielfreire.pages.dev/images/icons/Bootstrap_logo.svg"
 					alt="bootstrap"
 					width="40"
 					height="40"
