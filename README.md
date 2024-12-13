@@ -110,6 +110,17 @@
 					width="40"
 					height="40"
 			/></a>
+			<a
+				href="[https://www.gnu.org/software/bash/](https://www.zsh.org)/"
+				target="_blank"
+				rel="noreferrer"
+			>
+				<img
+					src="https://raw.githubusercontent.com/Zsh-art/logo/17617f2f6c70c65943a48745c91d997e7561f19d/svg/color_logomark.svg"
+					alt="bash"
+					width="40"
+					height="40"
+			/></a>
 			<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://danielfreire.pages.dev/images/icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> -->
 			<!-- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://danielfreire.pages.dev/images/icons/getpostman-icon.svg" alt="postman" width="40" height="40"> -->
 		<!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
