@@ -111,12 +111,12 @@
 					height="40"
 			/></a>
 			<a
-				href="[https://www.gnu.org/software/bash/](https://www.zsh.org)/"
+				href="https://www.zsh.org"
 				target="_blank"
 				rel="noreferrer"
 			>
 				<img
-					src="https://raw.githubusercontent.com/Zsh-art/logo/17617f2f6c70c65943a48745c91d997e7561f19d/svg/color_logomark.svg"
+					src="https://danielfreire.pages.dev/images/icons/color_zsh.svg"
 					alt="bash"
 					width="40"
 					height="40"
