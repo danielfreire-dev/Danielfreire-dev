@@ -57,6 +57,17 @@
 					width="40"
 					height="40"
 			/></a>
+			<a
+				href="https://webpack.js.org"
+				target="_blank"
+				rel="noreferrer"
+			>
+				<img
+					src="https://danielfreire.pages.dev/images/icons/webpack.svg"
+					alt="webpack"
+					width="40"
+					height="40"
+			/></a>
 			<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 				<img
 					src="https://danielfreire.pages.dev/images/icons/figma-icon.svg"
@@ -82,6 +93,17 @@
 				<img
 					src="https://danielfreire.pages.dev/images/icons/jestjsio-icon.svg"
 					alt="jest"
+					width="40"
+					height="40"
+			/></a>
+			<a
+				href="https://selenium-python.readthedocs.io"
+				target="_blank"
+				rel="noreferrer"
+			>
+				<img
+					src="https://danielfreire.pages.dev/images/icons/selenium.svg"
+					alt="selenium"
 					width="40"
 					height="40"
 			/></a>
@@ -121,28 +143,8 @@
 					width="40"
 					height="40"
 			/></a>
-			<a
-				href="https://webpack.js.org"
-				target="_blank"
-				rel="noreferrer"
-			>
-				<img
-					src="https://danielfreire.pages.dev/images/icons/webpack.svg"
-					alt="webpack"
-					width="40"
-					height="40"
-			/></a>
-			<a
-				href="https://selenium-python.readthedocs.io"
-				target="_blank"
-				rel="noreferrer"
-			>
-				<img
-					src="https://danielfreire.pages.dev/images/icons/selenium.svg"
-					alt="selenium"
-					width="40"
-					height="40"
-			/></a>
+			
+			
 			<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://danielfreire.pages.dev/images/icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> -->
 			<!-- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://danielfreire.pages.dev/images/icons/getpostman-icon.svg" alt="postman" width="40" height="40"> -->
 		<!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
