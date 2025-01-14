@@ -138,7 +138,7 @@
 				rel="noreferrer"
 			>
 				<img
-					src="https://danielfreire.pages.dev/images/selenium.svg"
+					src="https://danielfreire.pages.dev/images/icons/selenium.svg"
 					alt="selenium"
 					width="40"
 					height="40"
