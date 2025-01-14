@@ -121,6 +121,28 @@
 					width="40"
 					height="40"
 			/></a>
+			<a
+				href="https://webpack.js.org"
+				target="_blank"
+				rel="noreferrer"
+			>
+				<img
+					src="https://danielfreire.pages.dev/images/icons/webpack.svg"
+					alt="bash"
+					width="40"
+					height="40"
+			/></a>
+			<a
+				href="https://selenium-python.readthedocs.io"
+				target="_blank"
+				rel="noreferrer"
+			>
+				<img
+					src="https://danielfreire.pages.dev/images/selenium.svg"
+					alt="bash"
+					width="40"
+					height="40"
+			/></a>
 			<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://danielfreire.pages.dev/images/icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> -->
 			<!-- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://danielfreire.pages.dev/images/icons/getpostman-icon.svg" alt="postman" width="40" height="40"> -->
 		<!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
