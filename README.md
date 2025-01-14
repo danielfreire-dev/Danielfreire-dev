@@ -117,7 +117,7 @@
 			>
 				<img
 					src="https://danielfreire.pages.dev/images/icons/color_zsh.svg"
-					alt="bash"
+					alt="zsh"
 					width="40"
 					height="40"
 			/></a>
@@ -128,7 +128,7 @@
 			>
 				<img
 					src="https://danielfreire.pages.dev/images/icons/webpack.svg"
-					alt="bash"
+					alt="webpack"
 					width="40"
 					height="40"
 			/></a>
@@ -139,7 +139,7 @@
 			>
 				<img
 					src="https://danielfreire.pages.dev/images/selenium.svg"
-					alt="bash"
+					alt="selenium"
 					width="40"
 					height="40"
 			/></a>
