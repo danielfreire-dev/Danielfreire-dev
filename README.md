@@ -2,7 +2,7 @@
 
 <!-- ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B)](https://danielfreire.pages.dev) -->
 
-<h1 align="center">Hi 👋, I'm Daniel Freire</h1>
+<h1 align="center">👋 Hi, I'm Daniel Freire</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 Working as **Frontend Developer**
