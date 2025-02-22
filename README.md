@@ -152,6 +152,14 @@
 					width="40"
 					height="40"
 			/></a>
+		<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+				<img
+					src="https://danielfreire.pages.dev/images/icons/django.svg"
+					alt="django"
+					width="40"
+					height="40"
+			/></a> 
+		
 		-->
 		</p>
 <!--
