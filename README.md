@@ -22,12 +22,12 @@
 					width="80"
 					height="80"
 			/>
-   <img
+   | <img
 					src="https://danielfreire.pages.dev/images/GIFs/quizzical.gif"
 					alt="Quizzical demo"
 					width="80"
 					height="80"
-			/>| Text        |
+			/>        |
 <h2 align="left">Languages and Tools:</h2>
 	<p align="left">
 			<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
