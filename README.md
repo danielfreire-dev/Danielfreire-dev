@@ -21,8 +21,6 @@
 	<td><a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4d0835cc-24c8-4576-af31-6660c2c3ea90" alt="pollyglot demo"></a></td></tr>
 </table>
  
-![pollyglot]()
-
    
 <h2 align="left">Languages and Tools:</h2>
 	<p align="left">
