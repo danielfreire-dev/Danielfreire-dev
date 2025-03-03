@@ -18,7 +18,7 @@
 | <a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer"><h3 align="center">Quizzical</h3></a>| Title       |
 | <img
 					src="https://danielfreire.pages.dev/images/GIFs/quizzical.webp"
-					alt="Quizzical demo"
+					alt="Quizzical webp demo"
 					width="80"
 					height="80"
 			/>
