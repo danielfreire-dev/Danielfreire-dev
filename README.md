@@ -16,9 +16,12 @@
 <h2 align="center">Projects</h2>
 <table>
 	<tr><td><a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer"><h3 align="center">Quizzical</h3></a></td><td><a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer"><h3 align="center">PollyGlot</h3></a></td></tr>
-	<tr><td><a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/21735857-6399-4501-9b5b-92a886574768" alt="quizzical"></a></td></tr>
+	<tr>
+		<td><a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4d0835cc-24c8-4576-af31-6660c2c3ea90" alt="pollyglot demo"></a></td>
+		<td><a href="https://github.com/danielfreire-dev/PollyGlot/tree/gemini-code" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/21735857-6399-4501-9b5b-92a886574768" alt="pollyglot demo"></a></td></tr>
 </table>
  
+![pollyglot]()
 
    
 <h2 align="left">Languages and Tools:</h2>
