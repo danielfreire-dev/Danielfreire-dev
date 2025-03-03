@@ -16,13 +16,8 @@
 <h2 align="center">Projects</h2>
 
 | <a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer"><h3 align="center">Quizzical</h3></a>| Title       |
-| <img
-					src="https://danielfreire.pages.dev/images/GIFs/quizzical.webp"
-					alt="Quizzical webp demo"
-					width="80"
-					height="80"
-			/>
-   |   ![quizzical](https://github.com/user-attachments/assets/21735857-6399-4501-9b5b-92a886574768)
+|  ![quizzical](https://github.com/user-attachments/assets/21735857-6399-4501-9b5b-92a886574768)
+   |  
     |
 <h2 align="left">Languages and Tools:</h2>
 	<p align="left">
