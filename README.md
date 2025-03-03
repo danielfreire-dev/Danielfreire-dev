@@ -22,10 +22,8 @@
 					width="80"
 					height="80"
 			/>
-   | <img
-					src="https://danielfreire.pages.dev/images/GIFs/quizzical.gif"
-					alt="Quizzical gif demo"
-			/>        |
+   |   ![quizzical](https://github.com/user-attachments/assets/21735857-6399-4501-9b5b-92a886574768)
+    |
 <h2 align="left">Languages and Tools:</h2>
 	<p align="left">
 			<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
