@@ -14,7 +14,7 @@
 
 
 <h2 align="center">Projects</h2>
-
+|-----:|---------------|
 | <a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer"><h3 align="center">Quizzical</h3></a>| <a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer"><h3 align="center">PollyGlot</h3></a>|
 |  ![quizzical](https://github.com/user-attachments/assets/21735857-6399-4501-9b5b-92a886574768)
    |  
