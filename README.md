@@ -1,4 +1,4 @@
-<a href="https://danielfreire.pages.dev/" > <img src="./img/Web-Header-Background.svg"/></a>
+v<a href="https://danielfreire.pages.dev/" > <img src="./img/Web-Header-Background.svg"/></a>
 
 <!-- ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B)](https://danielfreire.pages.dev) -->
 
@@ -12,7 +12,12 @@
 - 📫 Best to reach me @ **daniel.freire@gmx.com**
 - 😄 Pronouns: He/Him
 
-<h3 align="left">Languages and Tools:</h3>
+
+|<h2 align="center">Projects</h2>|
+|---------------------------|
+| Header      | Title       |
+| Paragraph   | Text        |
+<h2 align="left">Languages and Tools:</h2>
 	<p align="left">
 			<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 				<img
