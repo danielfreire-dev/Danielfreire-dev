@@ -24,9 +24,8 @@
 			/>
    | <img
 					src="https://danielfreire.pages.dev/images/GIFs/quizzical.gif"
-					alt="Quizzical demo"
-					width="80"
-					height="80"
+					alt="Quizzical gif demo"
+					
 			/>        |
 <h2 align="left">Languages and Tools:</h2>
 	<p align="left">
