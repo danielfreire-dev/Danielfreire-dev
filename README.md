@@ -1,4 +1,4 @@
-v<a href="https://danielfreire.pages.dev/" > <img src="./img/Web-Header-Background.svg"/></a>
+<a href="https://danielfreire.pages.dev/" > <img src="./img/Web-Header-Background.svg"/></a>
 
 <!-- ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B)](https://danielfreire.pages.dev) -->
 
