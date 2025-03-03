@@ -14,7 +14,7 @@ v<a href="https://danielfreire.pages.dev/" > <img src="./img/Web-Header-Backgrou
 
 
 <h2 align="center">Projects</h2>
-|---------------------------|
+
 | Header      | Title       |
 | Paragraph   | Text        |
 <h2 align="left">Languages and Tools:</h2>
