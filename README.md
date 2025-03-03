@@ -15,8 +15,13 @@ v<a href="https://danielfreire.pages.dev/" > <img src="./img/Web-Header-Backgrou
 
 <h2 align="center">Projects</h2>
 
-| Header      | Title       |
-| Paragraph   | Text        |
+| <a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer"><h3 align="center">Quizzical</h3></a>| Title       |
+| <img
+					src="https://danielfreire.pages.dev/images/GIFs/quizzical.webp"
+					alt="html5"
+					width="40"
+					height="40"
+			/>  | Text        |
 <h2 align="left">Languages and Tools:</h2>
 	<p align="left">
 			<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
