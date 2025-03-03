@@ -13,7 +13,7 @@ v<a href="https://danielfreire.pages.dev/" > <img src="./img/Web-Header-Backgrou
 - 😄 Pronouns: He/Him
 
 
-|<h2 align="center">Projects</h2>||
+<h2 align="center">Projects</h2>
 |---------------------------|
 | Header      | Title       |
 | Paragraph   | Text        |
