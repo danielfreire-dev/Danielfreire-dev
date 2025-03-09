@@ -19,8 +19,13 @@
 	<tr>
 		<td><a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/21735857-6399-4501-9b5b-92a886574768" alt="pollyglot demo"></a></td>
 	<td><a href="https://pollyglot-bydainelli.netlify.app" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4d0835cc-24c8-4576-af31-6660c2c3ea90" alt="pollyglot demo"></a></td></tr>
+	<tr>
+		<td>![globe_white](https://github.com/user-attachments/assets/e13edfb8-327a-4430-a893-dc8fd1958ef7)</td>
+		<td><img src="https://github.com/user-attachments/assets/e13edfb8-327a-4430-a893-dc8fd1958ef7" alt="globe"></td>
+	</tr>
 </table>
- 
+ ![globe_white](https://github.com/user-attachments/assets/e13edfb8-327a-4430-a893-dc8fd1958ef7)
+
    
 <h2 align="left">Languages and Tools:</h2>
 	<p align="left">
