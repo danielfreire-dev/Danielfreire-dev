@@ -26,7 +26,6 @@
 		<td><div><a href="https://pollyglot-bydainelli.netlify.app" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e13edfb8-327a-4430-a893-dc8fd1958ef7" alt="globe" height="20"><p>Website</p></a></div><div><a href="https://github.com/danielfreire-dev/PollyGlot/tree/gemini-code" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1e97fcb8-1c48-411d-9259-f514babaaded" alt="Octocat" height="20"><p>Repository</p></a></div></td></td>
 	</tr>
 </table>
-![github-square_white](https://github.com/user-attachments/assets/1e97fcb8-1c48-411d-9259-f514babaaded)
 
 
 <h2 align="left">Languages and Tools:</h2>
