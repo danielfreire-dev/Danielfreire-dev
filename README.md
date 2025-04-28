@@ -32,12 +32,10 @@
 	</tr>
 	<tr>
 		<td align="center">
-		<p>
 			<a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer">
 				<img src="https://github.com/user-attachments/assets/e13edfb8-327a-4430-a893-dc8fd1958ef7" alt="globe" height="20">
 				<p>Website</p>
 			</a>
-		</p>
 		</td>
 		<td align="center">
 				<a href="https://github.com/danielfreire-dev/Quizzical/tree/webpage" target="_blank" rel="noreferrer">
@@ -63,6 +61,8 @@
 			<p>Quizzical is a Trivia game that uses the Trivia Data Base for questioning the player's trivia knowledge.</p>
 		</td>
 		<td colspan="2">
+			<h3>Summary: </h3>
+			<p>Pollyglot is a translation app using AI for more flexible and accurate translations.</p>
 		</td>
 	</tr>
 </table>
