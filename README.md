@@ -32,10 +32,12 @@
 	</tr>
 	<tr>
 		<td align="center">
-				<a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer">
-					<img src="https://github.com/user-attachments/assets/e13edfb8-327a-4430-a893-dc8fd1958ef7" alt="globe" height="20">
-					<p>Website</p>
-				</a>
+		<p>
+			<a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer">
+				<img src="https://github.com/user-attachments/assets/e13edfb8-327a-4430-a893-dc8fd1958ef7" alt="globe" height="20">
+				<p>Website</p>
+			</a>
+		</p>
 		</td>
 		<td align="center">
 				<a href="https://github.com/danielfreire-dev/Quizzical/tree/webpage" target="_blank" rel="noreferrer">
@@ -53,6 +55,14 @@
 				<img src="https://github.com/user-attachments/assets/1e97fcb8-1c48-411d-9259-f514babaaded" alt="Octocat" height="20">
 				<p>Repository</p>
 			</a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<h3>Summary: </h3>
+			<p>Quizzical is a Trivia game that uses the Trivia Data Base for questioning the player's trivia knowledge.</p>
+		</td>
+		<td colspan="2">
 		</td>
 	</tr>
 </table>
