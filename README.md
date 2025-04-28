@@ -12,7 +12,6 @@
 - 📫 Best to reach me @ **daniel.freire@gmx.com**
 - 😄 Pronouns: He/Him
 
-
 <h2 align="center">Projects</h2>
 <table>
 	<tr>
@@ -27,19 +26,18 @@
 	</tr>
 </table>
 
-
 <h2 align="left">Languages and Tools:</h2>
 	<p align="left">
 			<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 				<img
-					src="https://danielfreire.pages.dev/images/icons/html5-original-wordmark.svg"
+					src="./img/icons/html5-original-wordmark.svg"
 					alt="html5"
 					width="40"
 					height="40"
 			/></a>
 			<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 				<img
-					src="https://danielfreire.pages.dev/images/icons/Official_CSS_Logo.svg"
+					src="./img/icons/Official_CSS_Logo.svg"
 					alt="css3"
 					width="40"
 					height="40"
@@ -50,7 +48,7 @@
 				rel="noreferrer"
 			>
 				<img
-					src="https://danielfreire.pages.dev/images/icons/javascript-original.svg"
+					src="./img/icons/javascript-original.svg"
 					alt="javascript"
 					width="40"
 					height="40"
@@ -61,14 +59,14 @@
 				rel="noreferrer"
 			>
 				<img
-					src="https://danielfreire.pages.dev/images/icons/Typescript.svg"
+					src="./img/icons/Typescript.svg"
 					alt="typescript"
 					width="40"
 					height="40"
 			/></a>
 			<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 				<img
-					src="https://danielfreire.pages.dev/images/icons/react2.svg"
+					src="./img/icons/react2.svg"
 					alt="react"
 					width="40"
 					height="40"
@@ -79,28 +77,28 @@
 				rel="noreferrer"
 			>
 				<img
-					src="https://danielfreire.pages.dev/images/icons/webpack.svg"
+					src="./img/icons/webpack.svg"
 					alt="webpack"
 					width="40"
 					height="40"
 			/></a>
 			<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 				<img
-					src="https://danielfreire.pages.dev/images/icons/figma-icon.svg"
+					src="./img/icons/figma-icon.svg"
 					alt="figma"
 					width="40"
 					height="40"
 			/></a>
 			<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 				<img
-					src="https://danielfreire.pages.dev/images/icons/git-scm-icon.svg"
+					src="./img/icons/git-scm-icon.svg"
 					alt="git"
 					width="40"
 					height="40"
 			/></a>
 			<a href="https://jestjs.io" target="_blank" rel="noreferrer">
 				<img
-					src="https://danielfreire.pages.dev/images/icons/jestjsio-icon.svg"
+					src="./img/icons/jestjsio-icon.svg"
 					alt="jest"
 					width="40"
 					height="40"
@@ -111,21 +109,21 @@
 				rel="noreferrer"
 			>
 				<img
-					src="https://danielfreire.pages.dev/images/icons/selenium.svg"
+					src="./img/icons/selenium.svg"
 					alt="selenium"
 					width="40"
 					height="40"
 			/></a>
 			<a href="https://www.python.org" target="_blank" rel="noreferrer">
 				<img
-					src="https://danielfreire.pages.dev/images/icons/python-original.svg"
+					src="./img/icons/python-original.svg"
 					alt="python"
 					width="40"
 					height="40"
 			/></a>
 			<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 				<img
-					src="https://danielfreire.pages.dev/images/icons/linux-original.svg"
+					src="./img/icons/linux-original.svg"
 					alt="linux"
 					width="40"
 					height="40"
@@ -136,7 +134,7 @@
 				rel="noreferrer"
 			>
 				<img
-					src="https://danielfreire.pages.dev/images/icons/bash-icon-svgrepo-com.svg"
+					src="./img/icons/bash-icon-svgrepo-com.svg"
 					alt="bash"
 					width="40"
 					height="40"
@@ -147,37 +145,38 @@
 				rel="noreferrer"
 			>
 				<img
-					src="https://danielfreire.pages.dev/images/icons/color_zsh.svg"
+					src="./img/icons/color_zsh.svg"
 					alt="zsh"
 					width="40"
 					height="40"
 			/></a>
-			<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://danielfreire.pages.dev/images/icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> -->
-			<!-- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://danielfreire.pages.dev/images/icons/getpostman-icon.svg" alt="postman" width="40" height="40"> -->
+			<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./img/icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> -->
+			<!-- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="./img/icons/getpostman-icon.svg" alt="postman" width="40" height="40"> -->
 		<!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
 				<img
-					src="https://danielfreire.pages.dev/images/icons/firebase-icon.svg"
+					src="./img/icons/firebase-icon.svg"
 					alt="firebase"
 					width="40"
 					height="40"
-			/></a> 
+			/></a>
 			<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 				<img
-					src="https://danielfreire.pages.dev/images/icons/Bootstrap_logo.svg"
+					src="./img/icons/Bootstrap_logo.svg"
 					alt="bootstrap"
 					width="40"
 					height="40"
 			/></a>
 		<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
 				<img
-					src="https://danielfreire.pages.dev/images/icons/django.svg"
+					src="./img/icons/django.svg"
 					alt="django"
 					width="40"
 					height="40"
-			/></a> 
-		
-		-->
-		</p>
+			/></a>
+
+    	-->
+    	</p>
+
 <!--
 **Dainelli/Dainelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
