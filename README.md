@@ -36,7 +36,7 @@
 			</div>
 		</td>
 		<td>
-			<div align="center">
+			<div style="display: flex; justify-content: center; align-items: center;">
 				<div>
 					<a href="https://pollyglot-bydainelli.netlify.app" target="_blank" rel="noreferrer">
 						<img src="https://github.com/user-attachments/assets/e13edfb8-327a-4430-a893-dc8fd1958ef7" alt="globe" height="20">
