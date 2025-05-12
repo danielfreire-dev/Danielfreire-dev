@@ -12,7 +12,7 @@
 - 📫 Best to reach me @ **daniel.freire@gmx.com**
 - 😄 Pronouns: He/Him
 
-<h2 align="center">Projects</h2>
+<h2 align="center">✨ Projects</h2>
 <table>
 	<tr>
 		<td colspan="2">
