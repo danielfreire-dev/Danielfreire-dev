@@ -67,7 +67,7 @@
 	</tr>
 </table>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">🛠️ Tech Stack:</h2>
 	<p align="left">
 			<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 				<img
