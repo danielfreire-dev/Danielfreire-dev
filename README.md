@@ -32,7 +32,7 @@
 	</tr>
 	<tr>
 		<td align="center">
-			<a href="https://quizzicall-bydainelli.netlify.app" target="_blank" rel="noreferrer">
+			<a href="https://quizzicall-bydainelli.netlify.app/?utm_source=github" target="_blank" rel="noreferrer">
 				<img src="https://github.com/user-attachments/assets/e13edfb8-327a-4430-a893-dc8fd1958ef7" alt="globe" height="20">
 				<p>Website</p>
 			</a>
@@ -44,7 +44,7 @@
 				</a>
 		</td>
 		<td align="center">
-			<a href="https://pollyglot-bydainelli.netlify.app" target="_blank" rel="noreferrer">
+			<a href="https://pollyglot-bydainelli.netlify.app/?utm_source=github" target="_blank" rel="noreferrer">
 				<img src="https://github.com/user-attachments/assets/e13edfb8-327a-4430-a893-dc8fd1958ef7" alt="globe" height="20">
 				<p>Website</p>
 			</a>
