@@ -8,7 +8,7 @@
 - 🔭 Working as **Frontend Developer**
 - 🌱 Learning **Backend Development**
 - 👯 I’m looking to collaborate on **FOSS projects**
-- 👨‍💻 My favorite projects are available at [daniel-freire.com/](https://daniel-freire.com/)
+- 👨‍💻 My favorite projects are available at [daniel-freire.com/](https://daniel-freire.com/?utm_source=github)
 - 📫 Best to reach me @ **daniel.freire@gmx.com**
 - 😄 Pronouns: He/Him
 
