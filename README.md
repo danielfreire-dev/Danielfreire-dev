@@ -6,7 +6,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 Working as **Frontend Developer**
-- 🌱 Learning **Backend Development**
+- 🌱 Learning **System Design**
 - 👯 I’m looking to collaborate on **FOSS projects**
 - 👨‍💻 My favorite projects are available at [daniel-freire.com/](https://daniel-freire.com/?utm_source=github)
 - 📫 Best to reach me @ [daniel-freire.com/](https://daniel-freire.com/?utm_source=github)
