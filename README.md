@@ -66,8 +66,8 @@
  </tr>
 </table>
 
-<h2 align="center">🛠️ Tech Stack:</h2>
-   <p style="display: inline-block;">
+<h2>🛠️ Tech Stack:</h2>
+   <p style="display: inline-block;" align="center">
     <kbd>
       <kbd>Languages</kbd>
       <br>
