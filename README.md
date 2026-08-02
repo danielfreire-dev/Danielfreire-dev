@@ -44,13 +44,11 @@
   </td>
   <td align="center">
    <a href="https://pollyglot-bydainelli.netlify.app/?utm_source=github" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/e13edfb8-327a-4430-a893-dc8fd1958ef7" alt="globe" height="20">
-    <p>Website</p>
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxsaW5lIHgxPSIyIiB5MT0iMTIiIHgyPSIyMiIgeTI9IjEyIi8+PHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTB6Ii8+PC9zdmc+&logoColor=white" alt="Website" height="20">
    </a>
   <td align="center">
    <a href="https://github.com/danielfreire-dev/PollyGlot/tree/gemini-code" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/1e97fcb8-1c48-411d-9259-f514babaaded" alt="Octocat" height="20">
-    <p>Repository</p>
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" height="20">
    </a>
   </td>
  </tr>
