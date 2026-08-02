@@ -9,7 +9,7 @@
 - 📫 Best to reach me @ [daniel-freire.com/](https://daniel-freire.com/?utm_source=github)
 - 😄 Pronouns: He/Him
 
-<h2>Projects</h2>
+<h2 align="center">Projects</h2>
 <table>
  <tr>
   <td colspan="2">
@@ -59,7 +59,7 @@
  </tr>
 </table>
 
-<h2 >Tech Stack</h2>
+<h2 align="center" >Tech Stack</h2>
    <p style="display: inline-block;" align="center">
     <kbd>
   <kbd>Languages</kbd>
@@ -144,12 +144,12 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
 </kbd>
   </p>
-<h2>Still here? Let's Connect</h2>
+<h2 align="center">Still here? Let's Connect</h2>
 <p align="center">
-  <a href="https://daniel-freire.com/?utm_source=github" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://www.linkedin.com/in/danielfreire-swe/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://daniel-freire.com/?utm_source=github" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
