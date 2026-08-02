@@ -1,9 +1,9 @@
-<a href="https://daniel-freire.com/?utm_source=github" > <img src="./img/Web-Header-Background.svg" alt="Daniel Freire/></a>
+<a href="https://daniel-freire.com/?utm_source=github" > <img src="./img/Web-Header-Background.svg" alt="Daniel Freire"/></a>
 
 <h1 align="center">Daniel Freire</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 Working as **Software Developer | Frontend Developer**<!-- - 🌱 Learning **System Design** -->
+- 🔭 Working as **Software Developer | Frontend Developer**
 - 👯 I’m looking to collaborate on **FOSS projects**
 - 👨‍💻 My favorite projects are available at [daniel-freire.com/](https://daniel-freire.com/?utm_source=github)
 - 📫 Best to reach me @ [daniel-freire.com/](https://daniel-freire.com/?utm_source=github)
@@ -60,7 +60,7 @@
 </table>
 
 <h2 align="center" >Tech Stack</h2>
-   <p >
+   <p style="display: inline-block;" align="center">
     <kbd>
       <kbd>Languages</kbd>
       <br>
@@ -116,7 +116,7 @@
       <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
       <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+      <img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
     </kbd>
     <kbd>
       <kbd>Tools &amp; DevOps</kbd>
@@ -144,6 +144,13 @@
       <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
     </kbd>
   </p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielfreire-dev&show_icons=true&theme=radical&hide_border=true" alt="Daniel's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielfreire-dev&theme=radical&hide_border=true" alt="Daniel's Streak Stats" />
+</p>
+
 <h2 align="center">Still here? Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/danielfreire-swe/" target="_blank">
