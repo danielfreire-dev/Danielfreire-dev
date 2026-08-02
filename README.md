@@ -81,6 +81,8 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A"/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
       <img src="https://img.shields.io/badge/webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=8DD6F9"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </kbd>
     <kbd>
       <kbd>Back End</kbd>
@@ -89,6 +91,17 @@
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=44B78B"/>
+    </kbd>
+    <kbd>
+      <kbd>State management</kbd>
+      <br>
+      <br>
+      <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=zustand&logoColor=white"/>
+    </kbd>
+      <kbd>AI / ML</kbd>
+      <br>
+      <br>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
     </kbd>
     <kbd>
       <kbd>Databases</kbd>
@@ -103,6 +116,7 @@
       <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
     </kbd>
     <kbd>
       <kbd>Tools & DevOps</kbd>
@@ -111,6 +125,8 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     </kbd>
     <kbd>
       <kbd>Data Formats</kbd>
