@@ -68,7 +68,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="30" height="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="30" height="30"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/gnubash.svg?color=%23ffffff">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/gnubash.svg?color=%23181717">
+        <img src="https://api.iconify.design/simple-icons/gnubash.svg?color=%23181717" alt="Bash" title="Bash" width="30" height="30"/>
+      </picture>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" title="R" width="30" height="30"/>
     </kbd>
     <kbd>
@@ -95,13 +99,13 @@
       <kbd>State Management</kbd>
       <br>
       <br>
-      <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" height="30">
+      <img src="/img/icons/zustand.svg" alt="Zustand" height="30">
     </kbd>
     <kbd>
       <kbd>AI / ML</kbd>
       <br>
       <br>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="30">
+      <img src="/img/icons/langsmith-color.svg" alt="LangChain" height="30">
     </kbd>
     <kbd>
       <kbd>Databases</kbd>
@@ -140,7 +144,11 @@
       <kbd>Hosting</kbd>
       <br>
       <br>
-      <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" height="30">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23ffffff">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23181717">
+        <img src="https://api.iconify.design/simple-icons/github.svg?color=%23181717" alt="GitHub" title="GitHub" width="30" height="30"/>
+      </picture>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" width="30" height="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" title="Netlify" width="30" height="30"/>
     </kbd>
