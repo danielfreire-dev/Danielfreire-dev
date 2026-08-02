@@ -179,7 +179,6 @@
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
       <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
     </kbd>
-
     <kbd>
       <kbd>Front End</kbd>
       <br>
@@ -190,7 +189,6 @@
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
       <img src="https://img.shields.io/badge/webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=8DD6F9"/>
     </kbd>
-
     <kbd>
       <kbd>Back End</kbd>
       <br>
@@ -199,14 +197,12 @@
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=44B78B"/>
     </kbd>
-
     <kbd>
       <kbd>Databases</kbd>
       <br>
       <br>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
     </kbd>
-
     <kbd>
       <kbd>Testing</kbd>
       <br>
@@ -215,7 +211,6 @@
       <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
     </kbd>
-
     <kbd>
       <kbd>Tools & DevOps</kbd>
       <br>
@@ -224,7 +219,6 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
     </kbd>
-
     <kbd>
       <kbd>Data Formats</kbd>
       <br>
@@ -232,7 +226,6 @@
       <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
       <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
     </kbd>
-
   </p>
    <!--<a
     href="https://www.gnu.org/software/bash/"
