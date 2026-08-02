@@ -148,7 +148,20 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielfreire-dev&show_icons=true&theme=radical&hide_border=true" alt="Daniel's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielfreire-dev&theme=radical&hide_border=true" alt="Daniel's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfreire-dev&layout=compact&theme=radical&hide_border=true" alt="Daniel's Top Languages" />
+</p>
+
+<h2 align="center">Still here? Let's Connect</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/danielfreire-swe/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://daniel-freire.com/?utm_source=github" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <h2 align="center">Still here? Let's Connect</h2>
