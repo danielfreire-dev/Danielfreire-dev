@@ -123,8 +123,16 @@
       <br>
       <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="30" height="30"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23ffffff">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23181717">
+        <img src="https://api.iconify.design/simple-icons/github.svg?color=%23181717" alt="GitHub" title="GitHub" width="30" height="30"/>
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/linux.svg?color=%23ffffff">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/linux.svg?color=%23181717">
+        <img src="https://api.iconify.design/simple-icons/linux.svg?color=%23181717" alt="Linux" title="Linux" width="30" height="30"/>
+      </picture>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="30" height="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="30" height="30"/>
     </kbd>
@@ -140,8 +148,16 @@
       <kbd>Data Formats</kbd>
       <br>
       <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" title="Markdown" width="30" height="30"/>
-      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" height="30">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/markdown.svg?color=%23ffffff">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/markdown.svg?color=%23181717">
+        <img src="https://api.iconify.design/simple-icons/markdown.svg?color=%23181717" alt="Markdown" title="Markdown" width="30" height="30"/>
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/devicon-plain/json.svg?color=%23ffffff">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/devicon-plain/json.svg?color=%23181717">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" alt="JSON" title="JSON" width="30" height="30"/>
+      </picture>
     </kbd>
   </p>
 
