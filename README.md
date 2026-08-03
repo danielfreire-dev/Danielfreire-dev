@@ -139,7 +139,12 @@
       <img src="/img/icons/jest.svg" alt="Jest" title="Jest" width="30" height="30"/>
       <img src="/img/icons/old/selenium.svg" alt="Selenium" title="Selenium" width="30" height="30"/>
       <img src="/img/icons/playwright.svg" alt="Playwright" title="Playwright" width="30" height="30"/>
-      <img src="/img/icons/cypressio.svg" alt="Cypress" title="Cypress" width="30" height="30"/>
+      <!--<img src="/img/icons/cypressio.svg" alt="Cypress" title="Cypress" width="30" height="30"/>-->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="/img/icons/cypressio-light.svg">
+        <source media="(prefers-color-scheme: light)" srcset="/img/icons/cypressio-dark.svg">
+        <img src="/img/icons/cypressio-light.svg" alt="Cypress" title="Cypress" width="30" height="30"/>
+      </picture> 
     </kbd>
     <kbd>
       <kbd>CI / CD</kbd>
