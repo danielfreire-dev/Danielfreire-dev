@@ -145,8 +145,8 @@
       <kbd>CI/CD</kbd>
       <br>
       <br>
-      <img src="/img/icons/githubactions.svg" alt="Github Actions" height="30">
-      <img src="/img/icons/eslint-original.svg" alt="ESLint" height="30">
+      <img src="/img/icons/githubactions.svg" alt="Github Actions" height="30"/>
+      <img src="/img/icons/eslint-original.svg" alt="ESLint" height="30"/>
     </kbd>
     <kbd>
       <kbd>Tools &amp; DevOps</kbd>
