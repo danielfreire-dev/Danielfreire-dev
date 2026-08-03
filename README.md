@@ -73,11 +73,11 @@
       <img src="/img/icons/javascript-plain.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
       <img src="/img/icons/typescript-plain.svg" alt="TypeScript" title="TypeScript" width="30" height="30"/>
       <img src="/img/icons/python.svg" alt="Python" title="Python" width="30" height="30"/>
-      <picture>
+      <!--<picture>
         <source media="(prefers-color-scheme: dark)" srcset="/img/icons/bash-light.svg">
         <source media="(prefers-color-scheme: light)" srcset="/img/icons/bash-dark.svg">
         <img src="https://api.iconify.design/simple-icons/gnubash.svg?color=%23181717" alt="Bash" title="Bash" width="30" height="30"/>
-      </picture>
+      </picture>-->
       <!-- <img src="/img/icons/r.svg" alt="R" title="R" width="30" height="30"/> -->
     </kbd>
     <kbd>
@@ -131,19 +131,19 @@
       <kbd>Testing</kbd>
       <br>
       <br>
+      <img src="/img/icons/jest.svg" alt="Jest" title="Jest" width="30" height="30"/>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="/img/icons/vitest-light.svg">
         <source media="(prefers-color-scheme: light)" srcset="/img/icons/vitest-dark.svg">
         <img src="/img/icons/vitest-light.svg" alt="Vitest" title="Vitest" width="30" height="30"/>
       </picture>
-      <img src="/img/icons/jest.svg" alt="Jest" title="Jest" width="30" height="30"/>
       <img src="/img/icons/old/selenium.svg" alt="Selenium" title="Selenium" width="30" height="30"/>
       <img src="/img/icons/playwright.svg" alt="Playwright" title="Playwright" width="30" height="30"/>
       <!--<img src="/img/icons/cypressio.svg" alt="Cypress" title="Cypress" width="30" height="30"/>-->
-      <picture>
+      <!--<picture>
         <source media="(prefers-color-scheme: dark)" srcset="/img/icons/cypressio-light.svg">
         <source media="(prefers-color-scheme: light)" srcset="/img/icons/cypressio-dark.svg">
-        <img src="/img/icons/cypressio-light.svg" alt="Cypress" title="Cypress" width="30" height="30"/>
+        <img src="/img/icons/cypressio-light.svg" alt="Cypress" title="Cypress" width="30" height="30"/>-->
       </picture> 
     </kbd>
     <kbd>
@@ -163,6 +163,7 @@
         <source media="(prefers-color-scheme: light)" srcset="/img/icons/github-dark.svg">
         <img src="/img/icons/github-dark.svg" alt="GitHub" title="GitHub" width="30" height="30"/>
       </picture>
+      <img src="/img/icons/postman.svg" alt="Postman" title="Postman" width="30" height="30"/>
       <img src="/img/icons/linux-original.svg" alt="Linux" title="Linux" width="30" height="30"/>
       <img src="/img/icons/vscode.svg" alt="VSCode" title="VSCode" width="30" height="30"/>
       <!-- <picture>
@@ -170,19 +171,18 @@
         <source media="(prefers-color-scheme: light)" srcset="/img/icons/linux-dark.svg">
         <img src="/img/icons/linux-original.svg" alt="Linux" title="Linux" width="30" height="30"/>
       </picture> -->
-      <img src="/img/icons/postman.svg" alt="Postman" title="Postman" width="30" height="30"/>
       <img src="/img/icons/figma.svg" alt="Figma" title="Figma" width="30" height="30"/>
     </kbd>
     <kbd>
       <kbd>Hosting</kbd>
       <br>
       <br>
+      <img src="/img/icons/cloudflare.svg" alt="Cloudflare" title="Cloudflare" width="30" height="30"/>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="/img/icons/github.svg">
         <source media="(prefers-color-scheme: light)" srcset="/img/icons/github-dark.svg">
         <img src="/img/icons/github-dark.svg" alt="GitHub" title="GitHub" width="30" height="30"/>
       </picture>
-      <img src="/img/icons/cloudflare.svg" alt="Cloudflare" title="Cloudflare" width="30" height="30"/>
       <img src="/img/icons/netlify.svg" alt="Netlify" title="Netlify" width="30" height="30"/>
     </kbd>
     <kbd>
