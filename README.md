@@ -115,7 +115,7 @@
       <br>
       <br>
       <img src="/img/icons/langchain-corporate.svg" alt="LangChain" height="30">
-      <img src="/img/icons/d3js.svg" alt="D3.js" height="30">
+      <img src="/img/icons/d3.svg" alt="D3.js" height="30">
       <!-- <img src="/img/icons/rstudio-plain.svg" alt="RStudio" height="30"> -->
     </kbd>
     <kbd>
