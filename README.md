@@ -142,11 +142,11 @@
       <img src="/img/icons/cypressio.svg" alt="Cypress" title="Cypress" width="30" height="30"/>
     </kbd>
     <kbd>
-      <kbd>CI/CD</kbd>
+      <kbd>CI / CD</kbd>
       <br>
       <br>
-      <img src="/img/icons/githubactions.svg" alt="Github Actions" title="GitHub Actions" height="30"/>
-      <img src="/img/icons/eslint-original.svg" alt="ESLint" title="ESLint" height="30"/>
+      <img src="/img/icons/githubactions.svg" alt="Github Actions" title="GitHub Actions" width="30" height="30"/>
+      <img src="/img/icons/eslint-original.svg" alt="ESLint" title="ESLint" width="30" height="30"/>
     </kbd>
     <kbd>
       <kbd>Tools &amp; DevOps</kbd>
