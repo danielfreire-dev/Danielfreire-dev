@@ -1,13 +1,18 @@
 <a href="https://daniel-freire.com/?utm_source=github" > <img src="./img/Web-Header-Background.svg" alt="Daniel Freire"/></a>
 
 <h1 align="center">Daniel Freire</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
-- 🔭 Working as **Software Developer | Frontend Developer**
-- 👯 I’m looking to collaborate on **FOSS projects**
+<!-- - 🔭 Working as **Software Developer | Frontend Developer** -->
+<!-- - 👯 I’m looking to collaborate on **FOSS projects** -->
+
+- 🏗️ Building custom software for big and mid sized businesses with React and Next.js @Socialissimi
 - 👨‍💻 My favorite projects are available at [daniel-freire.com/](https://daniel-freire.com/?utm_source=github)
-- 📫 Best to reach me @ [daniel-freire.com/](https://daniel-freire.com/?utm_source=github)
+- 📫 Best to reach me @ [daniel-freire.com/](https://daniel-freire.com/contact/?utm_source=github)
 - 😄 Pronouns: He/Him
+
+<h2>About</h2>
+<p>I specialize in building modern, high-performance web applications using React.js, Next.js, and TypeScript, with a focus on user experience, accessibility, and performance optimization. My expertise includes server-side rendering (SSR), static site generation (SSG), and responsive design to create seamless, engaging digital experiences. I am passionate about leveraging technology to solve real-world problems and deliver measurable results for users and businesses alike.</p>
 
 <h2 align="center">Projects</h2>
 <table>
@@ -51,10 +56,10 @@
  </tr>
  <tr>
   <td colspan="2">
-   <p>Quizzical is a Trivia game that uses the Trivia Data Base for questioning the player's trivia knowledge.</p>
+   <p>Built a performant SPA consuming the Open Trivia DB; implemented a 5-second countdown timer with a dynamic difficulty selector.</p>
   </td>
   <td colspan="2">
-   <p>Pollyglot is a translation app using AI for more flexible and accurate translations.</p>
+   <p>Integrated Gemini AI API to handle context-aware translations, reducing errors on slang/colloquialisms by ~40% compared to standard Google Translate.</p>
   </td>
  </tr>
 </table>
@@ -65,106 +70,134 @@
       <kbd>Languages</kbd>
       <br>
       <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="30" height="30"/>
+      <img src="/img/icons/javascript-plain.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
+      <img src="/img/icons/typescript-plain.svg" alt="TypeScript" title="TypeScript" width="30" height="30"/>
+      <img src="/img/icons/python.svg" alt="Python" title="Python" width="30" height="30"/>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/gnubash.svg?color=%23ffffff">
-        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/gnubash.svg?color=%23181717">
+        <source media="(prefers-color-scheme: dark)" srcset="/img/icons/bash-light.svg">
+        <source media="(prefers-color-scheme: light)" srcset="/img/icons/bash-dark.svg">
         <img src="https://api.iconify.design/simple-icons/gnubash.svg?color=%23181717" alt="Bash" title="Bash" width="30" height="30"/>
       </picture>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" title="R" width="30" height="30"/>
+      <!-- <img src="/img/icons/r.svg" alt="R" title="R" width="30" height="30"/> -->
     </kbd>
     <kbd>
       <kbd>Front End</kbd>
       <br>
       <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" title="webpack" width="30" height="30"/>
-      <!-- <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> -->
+      <img src="/img/icons/html5.svg" alt="HTML5" title="HTML5" width="30" height="30"/>
+      <img src="/img/icons/css3.svg" alt="CSS3" title="CSS3" width="30" height="30"/>
+      <img src="/img/icons/sass.svg" alt="Sass" title="Sass" width="30" height="30"/>
+      <img src="/img/icons/tailwindcss.svg" alt="TailwindCSS" title="TailwindCSS" width="30" height="30"/>
+      <img src="/img/icons/react.svg" alt="React" title="React" width="30" height="30"/>
+      <img src="/img/icons/nextjs.svg" alt="Next.js" title="Next.js" width="30" height="30"/>
+      <img src="/img/icons/vite.svg" alt="Vite" title="Vite" width="30" height="30"/>
+      <img src="/img/icons/webpack.svg" alt="webpack" title="webpack" width="30" height="30"/>
+      <!-- <img src="/img/icons/old/Bootstrap_logo.svg" alt="Bootstrap"/> -->
     </kbd>
     <kbd>
       <kbd>Back End</kbd>
       <br>
       <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="30" height="30"/>
-      <!-- <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" title="Django" width="30" height="30"/>
+      <img src="/img/icons/nodejs.svg" alt="Node.js" title="Node.js" width="30" height="30"/>
+      <img src="/img/icons/old/django.svg" alt="Django" title="Django" width="30" height="30"/>
+      <!-- <img src="/img/icons/fastapi.svg" alt="FastAPI"/> -->
+      <!-- <img src="/img/icons/flask.svg" alt="Flask"/> -->
     </kbd>
     <kbd>
       <kbd>State Management</kbd>
       <br>
       <br>
+      <img src="/img/icons/redux.svg" alt="Redux" height="30">
       <img src="/img/icons/zustand.svg" alt="Zustand" height="30">
     </kbd>
     <kbd>
-      <kbd>AI / ML</kbd>
+      <kbd>AI, Data and Visualization</kbd>
       <br>
       <br>
-      <img src="/img/icons/langsmith-color.svg" alt="LangChain" height="30">
+      <img src="/img/icons/langchain-corporate.svg" alt="LangChain" height="30">
+      <img src="/img/icons/d3js.svg" alt="D3.js" height="30">
+      <!-- <img src="/img/icons/rstudio-plain.svg" alt="RStudio" height="30"> -->
     </kbd>
     <kbd>
       <kbd>Databases</kbd>
       <br>
       <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="30" height="30"/>
+      <img src="/img/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="30" height="30"/>
+      <img src="/img/icons/mongodb.svg" alt="Mongo DB" title="Mongo DB" width="30" height="30"/>
+      <!-- <img src="/img/icons/redis.svg" alt="redis" title="redis" width="30" height="30"/> -->
+      <!-- <img src="/img/icons/graphql.svg" alt="graphql" title="graphql" width="30" height="30"/> -->
     </kbd>
     <kbd>
       <kbd>Testing</kbd>
       <br>
       <br>
-      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" height="30">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" title="Jest" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="30" height="30"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="/img/icons/vitest-light.svg">
+        <source media="(prefers-color-scheme: light)" srcset="/img/icons/vitest-dark.svg">
+        <img src="/img/icons/vitest-light.svg" alt="Vitest" title="Vitest" width="30" height="30"/>
+      </picture>
+      <img src="/img/icons/jest.svg" alt="Jest" title="Jest" width="30" height="30"/>
+      <img src="/img/icons/old/selenium.svg" alt="Selenium" title="Selenium" width="30" height="30"/>
+      <img src="/img/icons/playwright.svg" alt="Playwright" title="Playwright" width="30" height="30"/>
+      <img src="/img/icons/cypressio.svg" alt="Cypress" title="Cypress" width="30" height="30"/>
+    </kbd>
+    <kbd>
+      <kbd>CI/CD</kbd>
+      <br>
+      <br>
+      <img src="/img/icons/githubactions.svg" alt="Github Actions" height="30">
+      <img src="/img/icons/eslint-original.svg" alt="ESLint" height="30">
     </kbd>
     <kbd>
       <kbd>Tools &amp; DevOps</kbd>
       <br>
       <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="30" height="30"/>
+      <img src="/img/icons/git.svg" alt="Git" title="Git" width="30" height="30"/>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23ffffff">
-        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23181717">
-        <img src="https://api.iconify.design/simple-icons/github.svg?color=%23181717" alt="GitHub" title="GitHub" width="30" height="30"/>
+        <source media="(prefers-color-scheme: dark)" srcset="/img/icons/github.svg">
+        <source media="(prefers-color-scheme: light)" srcset="/img/icons/github-dark.svg">
+        <img src="/img/icons/github-dark.svg" alt="GitHub" title="GitHub" width="30" height="30"/>
       </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/linux.svg?color=%23ffffff">
-        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/linux.svg?color=%23181717">
-        <img src="https://api.iconify.design/simple-icons/linux.svg?color=%23181717" alt="Linux" title="Linux" width="30" height="30"/>
-      </picture>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="30" height="30"/>
+      <img src="/img/icons/linux-original.svg" alt="Linux" title="Linux" width="30" height="30"/>
+      <img src="/img/icons/vscode.svg" alt="VSCode" title="VSCode" width="30" height="30"/>
+      <!-- <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="/img/icons/linux-light.svg">
+        <source media="(prefers-color-scheme: light)" srcset="/img/icons/linux-dark.svg">
+        <img src="/img/icons/linux-original.svg" alt="Linux" title="Linux" width="30" height="30"/>
+      </picture> -->
+      <img src="/img/icons/postman.svg" alt="Postman" title="Postman" width="30" height="30"/>
+      <img src="/img/icons/figma.svg" alt="Figma" title="Figma" width="30" height="30"/>
     </kbd>
     <kbd>
       <kbd>Hosting</kbd>
       <br>
       <br>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23ffffff">
-        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23181717">
-        <img src="https://api.iconify.design/simple-icons/github.svg?color=%23181717" alt="GitHub" title="GitHub" width="30" height="30"/>
+        <source media="(prefers-color-scheme: dark)" srcset="/img/icons/github.svg">
+        <source media="(prefers-color-scheme: light)" srcset="/img/icons/github-dark.svg">
+        <img src="/img/icons/github-dark.svg" alt="GitHub" title="GitHub" width="30" height="30"/>
       </picture>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" title="Netlify" width="30" height="30"/>
+      <img src="/img/icons/cloudflare.svg" alt="Cloudflare" title="Cloudflare" width="30" height="30"/>
+      <img src="/img/icons/netlify.svg" alt="Netlify" title="Netlify" width="30" height="30"/>
     </kbd>
     <kbd>
       <kbd>Data Formats</kbd>
       <br>
       <br>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/markdown.svg?color=%23ffffff">
-        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/markdown.svg?color=%23181717">
-        <img src="https://api.iconify.design/simple-icons/markdown.svg?color=%23181717" alt="Markdown" title="Markdown" width="30" height="30"/>
+        <source media="(prefers-color-scheme: dark)" srcset="/img/icons/markdown.svg">
+        <source media="(prefers-color-scheme: light)" srcset="/img/icons/markdown-dark.svg">
+        <img src="/img/icons/markdown.svg" alt="Markdown" title="Markdown" width="30" height="30"/>
       </picture>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/devicon-plain/json.svg?color=%23ffffff">
-        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/devicon-plain/json.svg?color=%23181717">
+        <source media="(prefers-color-scheme: dark)" srcset="/img/icons/json.svg">
+        <source media="(prefers-color-scheme: light)" srcset="/img/icons/json-dark.svg">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" alt="JSON" title="JSON" width="30" height="30"/>
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="/img/icons/latex-light.svg">
+        <source media="(prefers-color-scheme: light)" srcset="/img/icons/latex-dark.svg">
+        <img src="/img/icons/latex-dark.svg" alt="LATEX" title="LATEX" width="30" height="30"/>
       </picture>
     </kbd>
   </p>
@@ -172,9 +205,11 @@
 <h2 align="center">Still here? Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/danielfreire-swe/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/>
+    <!-- <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/> -->
+    <img src="/img/icons/linkedin.svg" alt="LinkedIn"/>
   </a>
   <a href="https://daniel-freire.com/?utm_source=github" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <!-- <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/> -->
+    <img src="/img/icons/portfolio-badge.svg" alt="Portfolio"/>
   </a>
 </p>
