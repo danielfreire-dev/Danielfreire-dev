@@ -85,7 +85,7 @@
       <br>
       <br>
       <img src="/img/icons/html5.svg" alt="HTML5" title="HTML5" width="30" height="30"/>
-      <img src="/img/icons/css3.svg" alt="CSS3" title="CSS3" width="30" height="30"/>
+      <img src="/img/icons/Official_CSS_Logo.svg" alt="CSS3" title="CSS3" width="30" height="30"/>
       <img src="/img/icons/sass.svg" alt="Sass" title="Sass" width="30" height="30"/>
       <img src="/img/icons/tailwindcss.svg" alt="TailwindCSS" title="TailwindCSS" width="30" height="30"/>
       <img src="/img/icons/react.svg" alt="React" title="React" width="30" height="30"/>
