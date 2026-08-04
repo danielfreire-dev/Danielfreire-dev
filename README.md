@@ -184,8 +184,7 @@
       <br>
       <br>
       <a href="https://git-scm.com/"><img src="/img/icons/git.svg" alt="Git" title="Git" width="30" height="30"/></a>
-      <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="/img/icons/github.svg"><source media="(prefers-color-scheme: light)" srcset="/img/icons/github-dark.svg"><img src="/img/icons/github-dark.svg" alt="GitHub" title="GitHub" width="30" height="30"/>
-        </picture></a>
+      <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="/img/icons/github.svg"><source media="(prefers-color-scheme: light)" srcset="/img/icons/github-dark.svg"><img src="/img/icons/github-dark.svg" alt="GitHub" title="GitHub" width="30" height="30"/></picture></a>
        <a href="https://www.postman.com/">
         <img src="/img/icons/postman.svg" alt="Postman" title="Postman" width="30" height="30"/></a>
        <a href="https://www.linux.org/">
