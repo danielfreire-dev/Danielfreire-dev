@@ -156,8 +156,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="/img/icons/vitest-light.svg">
           <source media="(prefers-color-scheme: light)" srcset="/img/icons/vitest-dark.svg">
-          <img src="/img/icons/vitest-light.svg" alt="Vitest" title="Vitest" width="30" height="30"/>
-        </picture></a>
+          <img src="/img/icons/vitest-light.svg" alt="Vitest" title="Vitest" width="30" height="30"/></picture></a>
       <a href="https://www.selenium.dev/">
         <img src="/img/icons/old/selenium.svg" alt="Selenium" title="Selenium" width="30" height="30"/></a>
       <a href="https://playwright.dev/">
