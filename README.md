@@ -175,8 +175,7 @@
       <kbd>CI / CD</kbd>
       <br>
       <br>
-      <a href="https://github.com/features/actions/">
-        <img src="/img/icons/githubactions.svg" alt="Github Actions" title="GitHub Actions" width="30" height="30"/></a>
+      <a href="https://github.com/features/actions/"><img src="/img/icons/githubactions.svg" alt="Github Actions" title="GitHub Actions" width="30" height="30"/></a>
       <a href="https://eslint.org/">
         <img src="/img/icons/eslint-original.svg" alt="ESLint" title="ESLint" width="30" height="30"/></a>
     </kbd>
