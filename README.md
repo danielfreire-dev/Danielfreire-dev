@@ -249,11 +249,12 @@
         </picture>
       </a>
       <a href="https://www.latex-project.org/">
-        <picture>
+        <!--<picture>
           <source media="(prefers-color-scheme: dark)" srcset="/img/icons/latex-light.svg">
           <source media="(prefers-color-scheme: light)" srcset="/img/icons/latex-dark.svg">
           <img src="/img/icons/latex-dark.svg" alt="LATEX" title="LATEX" width="30" height="30"/>
-        </picture>
+        </picture>-->
+        <img src="/img/icons/latex-project-logo.svg" alt="LATEX" title="LATEX" width="30" height="30"/>
       </a>
     </kbd>
 
