@@ -189,8 +189,7 @@
       <a href="https://github.com/">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="/img/icons/github.svg">
-          <source media="(prefers-color-scheme: light)" srcset="/img/icons/github-dark.svg">
-          <img src="/img/icons/github-dark.svg" alt="GitHub" title="GitHub" width="30" height="30"/>
+          <source media="(prefers-color-scheme: light)" srcset="/img/icons/github-dark.svg"><img src="/img/icons/github-dark.svg" alt="GitHub" title="GitHub" width="30" height="30"/>
         </picture>
       </a>
        <a href="https://www.postman.com/">
