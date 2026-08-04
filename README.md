@@ -207,17 +207,14 @@
       <br>
       <br>
       <a href="https://www.cloudflare.com/">
-        <img src="/img/icons/cloudflare.svg" alt="Cloudflare" title="Cloudflare" width="30" height="30"/>
-      </a>
+        <img src="/img/icons/cloudflare.svg" alt="Cloudflare" title="Cloudflare" width="30" height="30"/></a>
       <a href="https://pages.github.com/">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="/img/icons/github.svg">
           <source media="(prefers-color-scheme: light)" srcset="/img/icons/github-dark.svg">
-          <img src="/img/icons/github-dark.svg" alt="GitHub Pages" title="GitHub Pages" width="30" height="30"/>
-        </picture></a>
+          <img src="/img/icons/github-dark.svg" alt="GitHub Pages" title="GitHub Pages" width="30" height="30"/></picture></a>
       <a href="https://www.netlify.com/">
-        <img src="/img/icons/netlify.svg" alt="Netlify" title="Netlify" width="30" height="30"/>
-      </a>
+        <img src="/img/icons/netlify.svg" alt="Netlify" title="Netlify" width="30" height="30"/></a>
     </kbd>
     <kbd>
       <kbd>Data Formats</kbd>
@@ -227,24 +224,19 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="/img/icons/markdown.svg">
           <source media="(prefers-color-scheme: light)" srcset="/img/icons/markdown-dark.svg">
-          <img src="/img/icons/markdown.svg" alt="Markdown" title="Markdown" width="30" height="30"/>
-        </picture>
-      </a>
+          <img src="/img/icons/markdown.svg" alt="Markdown" title="Markdown" width="30" height="30"/></picture></a>
       <a href="https://json.org/">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="/img/icons/json.svg">
           <source media="(prefers-color-scheme: light)" srcset="/img/icons/json-dark.svg">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" alt="JSON" title="JSON" width="30" height="30"/>
-        </picture>
-      </a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" alt="JSON" title="JSON" width="30" height="30"/></picture></a>
       <a href="https://www.latex-project.org/">
         <!--<picture>
           <source media="(prefers-color-scheme: dark)" srcset="/img/icons/latex-light.svg">
           <source media="(prefers-color-scheme: light)" srcset="/img/icons/latex-dark.svg">
           <img src="/img/icons/latex-dark.svg" alt="LATEX" title="LATEX" width="30" height="30"/>
         </picture>-->
-        <img src="/img/icons/latex-project-logo.svg" alt="LATEX" title="LATEX" width="30" height="30"/>
-      </a>
+        <img src="/img/icons/latex-project-logo.svg" alt="LATEX" title="LATEX" width="30" height="30"/></a>
     </kbd>
 
   </p>
@@ -253,10 +245,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/danielfreire-swe/" target="_blank">
     <!-- <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/> -->
-    <img src="/img/icons/linkedin.svg" alt="LinkedIn"/>
-  </a>
+    <img src="/img/icons/linkedin.svg" alt="LinkedIn"/></a>
   <a href="https://daniel-freire.com/?utm_source=github" target="_blank">
     <!-- <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/> -->
-    <img src="/img/icons/portfolio-badge.svg" alt="Portfolio"/>
-  </a>
+    <img src="/img/icons/portfolio-badge.svg" alt="Portfolio"/></a>
 </p>
