@@ -1,4 +1,4 @@
-<a href="https://daniel-freire.com/?utm_source=github" > <img src="./img/Web-Header-Background.svg" alt="Daniel Freire"/></a>
+<a href="https://daniel-freire.com/?utm_source=github" > <img src="/img/Web-Header-Background.svg" alt="Daniel Freire"/></a>
 
 <h1 align="center">Daniel Freire</h1>
 <h3 align="center">A passionate web developer</h3>
