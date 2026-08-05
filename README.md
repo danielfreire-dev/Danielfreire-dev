@@ -35,22 +35,22 @@
  <tr>
   <td align="center">
    <a href="https://quizzicall-bydainelli.netlify.app/?utm_source=github" target="_blank" rel="noreferrer">
-     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxsaW5lIHgxPSIyIiB5MT0iMTIiIHgyPSIyMiIgeTI9IjEyIi8+PHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTB6Ii8+PC9zdmc+&logoColor=white" alt="Website" height="20">
+     <img src="/img/badges/website.svg" alt="Website" height="20">
    </a>
   </td>
   <td align="center">
     <a href="https://github.com/danielfreire-dev/Quizzical/tree/webpage" target="_blank" rel="noreferrer">
-     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" height="20">
+     <img src="/img/badges/repository.svg" alt="Repository" height="20">
    </a>
   </td>
   <td align="center">
    <a href="https://pollyglot-bydainelli.netlify.app/?utm_source=github" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxsaW5lIHgxPSIyIiB5MT0iMTIiIHgyPSIyMiIgeTI9IjEyIi8+PHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTB6Ii8+PC9zdmc+&logoColor=white" alt="Website" height="20">
+    <img src="/img/badges/website.svg" alt="Website" height="20">
    </a>
   </td>
   <td align="center">
    <a href="https://github.com/danielfreire-dev/PollyGlot/tree/gemini-code" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" height="20">
+    <img src="/img/badges/repository.svg" alt="Repository" height="20">
    </a>
   </td>
  </tr>
@@ -236,7 +236,7 @@
           <source media="(prefers-color-scheme: light)" srcset="/img/icons/latex-dark.svg">
           <img src="/img/icons/latex-dark.svg" alt="LATEX" title="LATEX" width="30" height="30"/>
         </picture>-->
-        <img src="/img/icons/latex-project-logo.svg" alt="LATEX" title="LATEX" width="30" height="30"/></a>
+        <img src="/img/icons/latex-project-logo.svg" alt="Latex" title="Latex" width="30" height="30"/></a>
     </kbd>
 
   </p>
